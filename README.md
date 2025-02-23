@@ -17,7 +17,7 @@ Enhance security, automate attendance, and streamline student record management 
 ## **📥 Installation & Setup**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/student-rfid.git
+   https://github.com/mrriyaj/student-rfid.git
    ```
 2. Navigate to the project directory:
    ```sh
