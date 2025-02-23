@@ -14,6 +14,20 @@ Enhance security, automate attendance, and streamline student record management 
 
 ---
 
+## **💻 Technology Used**
+This project leverages a variety of technologies to deliver a seamless and efficient student management system:
+
+- **PHP**: The core programming language used for server-side logic.
+- **Laravel**: A powerful PHP framework used for building scalable web applications.
+- **RFID Technology**: Utilized for secure and quick student identification.
+- **MySQL**: The database management system used for storing student records and attendance data.
+- **JavaScript**: For interactive front-end features.
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **Composer**: Dependency management tool for PHP.
+- **npm**: Node package manager for managing JavaScript dependencies.
+
+---
+
 ## **📥 Installation & Setup**
 1. Clone the repository:
    ```sh
